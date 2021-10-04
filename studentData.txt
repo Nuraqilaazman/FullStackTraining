@@ -1,0 +1,8 @@
+ID: 0005 Name: Amran Class - 10th Location: Penang
+ID: 0002 Name: Abu Class - 12th Location: Cyberjaya
+ID: 0004 Name: Ahmad Class - 18th Location: Cyberjaya
+ID: 0006 Name: Abidah Class - 12th Location: Cyberjaya
+ID: 0001 Name: Ali Class - 10th Location: Penang
+ID: 0003 Name: Aminah Class - 16th Location: Penang
+
+
